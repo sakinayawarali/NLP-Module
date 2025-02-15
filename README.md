@@ -4,5 +4,5 @@
 
 ### Run the Python script
 ```bash
-python script.py
+python rag.py
 streamlit run app.py
